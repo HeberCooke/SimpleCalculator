@@ -1,4 +1,4 @@
-package calculator;
+
 // Heber Cooke			12/11/2018
 
 //Calculator for final OOP project
