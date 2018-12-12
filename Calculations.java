@@ -1,4 +1,4 @@
-package calculator;
+
 
 public class Calculations {
 	static double answer = 0.0;
